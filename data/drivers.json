@@ -1,0 +1,79 @@
+[
+  {
+    "id": "max-verstappen",
+    "name": "Max Verstappen",
+    "currentTeam": "Red Bull Racing",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": false
+  },
+  {
+    "id": "lando-norris",
+    "name": "Lando Norris",
+    "currentTeam": "McLaren",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": false
+  },
+  {
+    "id": "oscar-piastri",
+    "name": "Oscar Piastri",
+    "currentTeam": "McLaren",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": false
+  },
+  {
+    "id": "lewis-hamilton",
+    "name": "Lewis Hamilton",
+    "currentTeam": "Ferrari",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": false
+  },
+  {
+    "id": "charles-leclerc",
+    "name": "Charles Leclerc",
+    "currentTeam": "Ferrari",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": false
+  },
+  {
+    "id": "george-russell",
+    "name": "George Russell",
+    "currentTeam": "Mercedes",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": false
+  },
+  {
+    "id": "kimi-antonelli",
+    "name": "Kimi Antonelli",
+    "currentTeam": "Mercedes",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": true
+  },
+  {
+    "id": "oliver-bearman",
+    "name": "Oliver Bearman",
+    "currentTeam": "Haas",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": true
+  },
+  {
+    "id": "gabriel-bortoleto",
+    "name": "Gabriel Bortoleto",
+    "currentTeam": "Sauber",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": true
+  },
+  {
+    "id": "isack-hadjar",
+    "name": "Isack Hadjar",
+    "currentTeam": "Racing Bulls",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": true
+  },
+  {
+    "id": "jack-doohan",
+    "name": "Jack Doohan",
+    "currentTeam": "Alpine",
+    "isCurrentGridDriver": true,
+    "isRookieRelevant": true
+  }
+]
